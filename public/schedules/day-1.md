@@ -9,13 +9,16 @@
 
 ### Github
 Github is a website that offers hosting for software development *version control* using Git.
-\**Translated: Github is a website that allows us to publically store files (kind of like Google Drive, iCloud, or Dropbox). But it is* not *smart or automatic.*
+<br>\**Translated: Github is a website that allows us to publically store files (kind of like Google Drive, iCloud, or Dropbox). But it is* not *smart or automatic.*
 
 <br>We will be using Github&rsquo;s storage and hosting abilities throughout the course to document and publish our work.
 
 #### Links:
 - [Github Desktop Download](https://desktop.github.com/)
 - [Github Instructions](https://help.github.com/en/desktop/)
+
+#### Publishing
+Once you've published your Github page, please add it to this [Google Sheet](https://docs.google.com/spreadsheets/d/1zs-5NcqBZeeb1_Nd0Zv0Lx9D1G5n_vOaoC8FbEfUzZg/edit?usp=sharing).
 
 
 ### HTML/CSS
@@ -98,7 +101,7 @@ Additionally, please revisit the simple `index.html` page you made and uploaded 
 
 Taking what you&rsquo;ve learned so far, make sure to have the following *four* sections included: 
 - Section 1: An introduction to who you are (Name, interests, internet presence (optional))
--	Section 2: A link to all other students' [Github Pages](https://docs.google.com/spreadsheets/d/1zs-5NcqBZeeb1_Nd0Zv0Lx9D1G5n_vOaoC8FbEfUzZg/edit?usp=sharing)
+-	Section 2: A link to all other students&rsquo; Google pages from this [Google Sheet](https://docs.google.com/spreadsheets/d/1zs-5NcqBZeeb1_Nd0Zv0Lx9D1G5n_vOaoC8FbEfUzZg/edit?usp=sharing)
 - Section 3: Studio: A link to each Core Studio project
 - Section 4: Lab: A link to each Core Lab exercise and assignment
 
