@@ -13,7 +13,7 @@ export default {
     return {
       link: [
       "Syllabus",
-      "https://docs.google.com/document/d/1__Idam3_ifPBF28dpLGJCSTnTMyrFYOJ5XzQUY8JOpA/edit?usp=sharing"
+      "/PUCD_2126_I_Eigler-Harding_SP20.pdf"
       ]
     }
   },
