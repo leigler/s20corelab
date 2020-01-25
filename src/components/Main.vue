@@ -1,14 +1,17 @@
 <template>
 	<main>
 		<h2>{{ subtitle }}</h2>		
-		<h2>Lukas Eigler-Harding</h2>
-		<ul>
+		<ul class="main_list">
+			<li>January 24 – May 8, 2020</li>
+			<li>Friday, 4:00pm – 6:40pm</li>
+			<li>6 East 16th Street, Rm. 1104</li>
 			<li>
-				<a target="_blank" :href="link[1]">{{link[0]}}</a>
+				<a target="_blank" :href="link[1]">✷ {{link[0]}} ✷</a>
 			</li>
 			<li>
 				<a target="_blank" href="https://cdparsons.glideapp.io/">cdparsons.glideapp.io</a>
 			</li>
+			<li><br>Lukas Eigler-Harding</li>
 			<li>eigll343@newschool.edu</li>
 		</ul>
 		<p v-if="loading">loading...</p>
@@ -42,7 +45,7 @@ export default {
 	methods: {
 		fetchData () {
 			this.loading = true;
-			fetch('/schedules/day-1.md')
+			fetch('/schedules/primary.md')
 			.then((response) => { return response.text() })
 			.then((textResponse) => {
 				let converter = new showdown.Converter(),
@@ -61,16 +64,11 @@ export default {
 </script>
 
 <style scoped>
-	main{
-		margin: 0 auto;
-		margin-top: 1rem;
-		width: calc(100% - 4rem);
-	}
-
 	@media(max-width: 768px){
-		main{
-			width: calc(100% - 1.5rem);
-		}	
+		.main_list li{
+			margin-bottom: 0.25rem;
+		}
 	}
+	
 
 </style>

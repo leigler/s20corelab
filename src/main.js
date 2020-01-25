@@ -3,7 +3,8 @@ import VueRouter from 'vue-router'
 import App from './App.vue'
 
 import Main from './components/Main.vue'
-import Demos from './components/Demos.vue'
+import List from './components/List.vue'
+import Post from './components/Post.vue'
 
 
 Vue.config.productionTip = false
@@ -15,10 +16,15 @@ const routes = [
 		component: Main
 	},
 	{ 
-		name: "demos",
-		path: '/:demos',
-		component: Demos
-	}
+    name: "list",
+    path: '/:list',
+    component: List
+  },
+  { 
+		name: "post",
+		path: '/:section/:post',
+		component: Post
+	},
 ]
 
 // set up router
