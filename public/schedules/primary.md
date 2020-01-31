@@ -3,7 +3,7 @@
 - Demo: [HTML + CSS Positioning](/lectures/html-css-part-2)
 - Exercise: [Truck Typography](/assignments/truck-type)
 - Demo: CSS [media queries](/lectures/media)
-- Assignment: [Pocket Compositions](/assignments/pocket) (Due February 7th)
+- Assignment: [Pocket Compositions](/assignments/pocket) (Due February 14th)
 - Reading: [Autoprogettazione?](https://arena-attachments.s3.amazonaws.com/1771862/174a7eb1f1ba1046f2413ed7cbd00ccc.pdf?1518800745) by Enzo Mari
 
 # Day 1: Jan 24	
