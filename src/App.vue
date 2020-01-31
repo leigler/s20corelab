@@ -195,6 +195,14 @@ main{
     width: calc(100% - 4rem);
   }
 
+@media(min-width: 2000px){
+  main{
+    width: 60rem;
+    margin-left: 2rem;
+  } 
+}
+
+
 @media(max-width: 768px){
   main{
     width: calc(100% - 1.5rem);
