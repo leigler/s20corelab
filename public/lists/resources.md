@@ -4,11 +4,16 @@ A collection of code and web related resources.<br><br>
 ## HTML/CSS Resources
 - [Learn to Code](https://learn.shayhowe.com/html-css/)
 - [Learn Layout](http://learnlayout.com/)
+- [CSS Tricks: Centering Cheatsheet](https://css-tricks.com/centering-css-complete-guide/)
+- [CSS Tricks: Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 
 ## General Code Resources
 - [w3 schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)
+- [Dev Docs: CSS](https://devdocs.io/css/)
+- [Dev Docs: HTML](https://devdocs.io/html/)
 
 ## Webfont Resources
 - [Google Fonts](https://fonts.google.com/)

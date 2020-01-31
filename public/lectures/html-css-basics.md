@@ -49,5 +49,20 @@ How do we select things to style with?
 - `line-height`
 - `letter-spacing`
 
+To import a font, you will want to either use a `.woff`, `.ttf`, or `.eot` file and use `@font-face`:
+
+```css
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+       url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+}
+
+```
+<br>You may then reference your font with how you&rsquo;ve named it via the `font-family` (in this case: `"Open Sans"`)
+
+Alternative methods are often provided by online font foundries like [Google Fonts](https://fonts.google.com)
+
 ### Boilerplate
 We can find a boilerplate html + css file [here](/files/boilerplate.zip). 
