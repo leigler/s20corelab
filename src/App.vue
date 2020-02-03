@@ -78,6 +78,12 @@ html, body{
   }
 }
 
+@media(min-width: 1600px){
+  html{
+    font-size: 1vw;
+  }
+}
+
 #app {
   font-family: Times New Roman, Times, serif;
   -webkit-font-smoothing: antialiased;
@@ -195,13 +201,6 @@ main{
     width: calc(100% - 4rem);
   }
 
-@media(min-width: 2000px){
-  main{
-    width: 60rem;
-    margin-left: 2rem;
-  } 
-}
-
 
 @media(max-width: 768px){
   main{
@@ -210,10 +209,11 @@ main{
 }
 
 .Post{
-    margin-top: 2rem;
-    padding-bottom: 4rem;
-    border-top: 1px solid #8A2BE2;
-  }
+  margin-top: 2rem;
+  padding-bottom: 4rem;
+  border-top: 1px solid #8A2BE2;
+}
+
 
   .Post h1{
     text-transform: uppercase;

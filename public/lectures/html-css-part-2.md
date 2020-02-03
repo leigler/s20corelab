@@ -1,5 +1,7 @@
 # HTML/CSS Positioning
 
+*The January 31st files can be downloaded [here](/files/jan-31.zip).*
+
 ## Box Model
 Each html element has a margin, border, and padding:
 

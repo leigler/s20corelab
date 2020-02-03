@@ -1,5 +1,7 @@
 # Media Queries
-Media queries are used in CSS to apply styles based on various browser or device contexts. 
+*The January 31st files can be downloaded [here](/files/jan-31.zip).*
+
+<br>Media queries are used in CSS to apply styles based on various browser or device contexts. 
 
 <br>Most frequently, `@media` is used to define desktop and mobile styles, although you can use `@media` to specify `hover` and `print` properties.
 
