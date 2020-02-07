@@ -6,7 +6,9 @@ A collection of code and web related resources.<br><br>
 - [Learn Layout](http://learnlayout.com/)
 - [CSS Tricks: Centering Cheatsheet](https://css-tricks.com/centering-css-complete-guide/)
 - [CSS Tricks: Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Mozilla&rsquo;s flexbox documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
+
 
 ## General Code Resources
 - [w3 schools](https://www.w3schools.com/)

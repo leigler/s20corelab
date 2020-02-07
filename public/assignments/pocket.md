@@ -1,18 +1,23 @@
 # Assignment: Pocket Composition
 
-For this assignment, you will be exploring the responsive potential of websites using CSS `media queries`. You will create a modular composition with at least 3 breakpoints:
+For this assignment, you will be exploring the responsive potential of websites using CSS `media queries`. You will create a modular composition with at least 3 breakpoints\*:
 
 ### A few requirements: 
-- Your composition will be composed of 4-6 unique modules*
-- Your entire composition needs to be at least twice the height of the browser (i.e. you should be able to scroll), but not all modules need to scroll
-- Each module can be rotated/transformed to create more variance
-- Each breakpoint will yield a change in color and layout (as well as any other change you see fit)
+- Your composition will be composed of 4-6 unique modules**
+- Your entire composition needs to be at least twice the height of the browser (i.e. you should be able to scroll), but not all modules need to scroll (some parts of your composition can be `fixed`)
+- Each module can be rotated/transformed to create more variance within your composition
+- Each breakpoint will yield at least change in color and layout (as well as any other change you see fit)
 - Not all modules need to be present for every breakpoint
 
-When building this assignment, consider how you might effectively use (and *re-use*) `classes` to group different modules, how you can allow different media queries to override one-another, and how change in color and scale might dramatically change the composition as a whole. 
+When building this assignment, consider how you might effectively use (and *re-use*) `classes` to group different modules, how you can allow different media queries to override one-another, and how change in color and scale might dramatically change the composition as a whole.
 
+### A few considerations:
+- What css attributes work in ways you didn&rsquo;t expect? Can you capitalize on their output?
+- How might each pattern module relate to its surrounding modules?
+- Your pattern needs to be able to scroll, what optical effects might this produce?
 
-<br>\**Each module will be a `div` with child `divs`, most likely utilizing the css `overflow: hidden;` property*
+<br>\**A breakpoint is the &rsquo;point&lsquo; at which a media query sets into effect*
+<br>\*\**Each module will be a `div` with child `divs`, most likely utilizing the css `overflow: hidden;` property*
 
 ### Context: 
 

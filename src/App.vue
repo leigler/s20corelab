@@ -268,6 +268,9 @@ main{
     box-sizing: border-box;
     background-color: lavender;
     padding: 0.5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     border-radius: 0.25rem;
@@ -275,9 +278,10 @@ main{
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
     white-space: -pre-wrap;      /* Opera 4-6 */
     white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word; 
-    
+    word-wrap: break-word;     
+    max-width: 60rem;
   }
+
   
   .Post code{
     font-size: 1.25rem;
