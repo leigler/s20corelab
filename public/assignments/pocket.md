@@ -21,7 +21,7 @@ When building this assignment, consider how you might effectively use (and *re-u
 
 ### Context: 
 
-As a primary reference for this assignment, please examine Sol LeWitt&rsquo;s drawing *All combinations of arcs from corners and sides; straight, not-straight, and broken lines*. Instructions and images of the drawing can be found in [this]((/files/sol_lewitt_moma-1978-excerpt.pdf) excerpt of Sol LeWitt&rsquo;s 1978 book by MoMA. 
+As a primary reference for this assignment, please examine Sol LeWitt&rsquo;s drawing *All combinations of arcs from corners and sides; straight, not-straight, and broken lines*. Instructions and images of the drawing can be found in [this](/files/sol_lewitt_moma-1978-excerpt.pdf) excerpt of Sol LeWitt&rsquo;s 1978 book by MoMA. 
 
 <br>Below is a description of Sol LeWitt&rsquo;s wall drawings articulating their responsive nature:
 
