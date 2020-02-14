@@ -299,4 +299,12 @@ main{
 
   }
 
+  .Post pre + h2{
+    margin-top: 4rem;
+  }
+
+  .Post pre + h3{
+    margin-top: 2rem;
+  }
+
 </style>

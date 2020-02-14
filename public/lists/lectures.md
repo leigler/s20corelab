@@ -1,4 +1,7 @@
 # Lectures and Demos
+## Javascript
+- [Javascript Variables, DOM, and intervals](/lectures/javascript-1)
+
 ## HTML/CSS
 - [Flexbox](/lectures/html-css-flexbox)
 - [Pseudo-Classes](/lectures/html-css-part-3)

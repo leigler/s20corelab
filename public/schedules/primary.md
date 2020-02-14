@@ -1,3 +1,11 @@
+# Day 4: February 14
+
+- Discussion: [On Weaving](https://arena-attachments.s3.amazonaws.com/2597972/2065c555bbd04503da9df3d3ec5052dc.pdf?1535137003) by Anni Albers
+- Group Critiques: [Pocket Compositions](/assignments/pocket)
+- Javascript: Introduction to variables and DOM manipulation
+- Assignment: [Programming Plants](/assignments/programming-plants) (Due February 21st)
+- Reading: [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford
+
 # Day 3: February 7
 - Discussion: [Autoprogettazione?](https://arena-attachments.s3.amazonaws.com/1771862/174a7eb1f1ba1046f2413ed7cbd00ccc.pdf?1518800745)
 - Review [Truck Typography](/assignments/truck-type)
