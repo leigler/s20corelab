@@ -1,5 +1,7 @@
 # Javascript
 
+Files from February 14th&rsquo;s class can be found [here](/files/feb-14.zip).
+
 ## Variables
 A variable is a piece of information you store for later use:
 

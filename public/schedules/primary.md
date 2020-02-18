@@ -2,7 +2,7 @@
 
 - Discussion: [On Weaving](https://arena-attachments.s3.amazonaws.com/2597972/2065c555bbd04503da9df3d3ec5052dc.pdf?1535137003) by Anni Albers
 - Group Critiques: [Pocket Compositions](/assignments/pocket)
-- Javascript: [Introduction to variables and DOM manipulation](/lectures/javascript-1)
+- Javascript: [Introduction to variables and DOM manipulation](/lectures/javascript-1) (Files from class can be downloaded [here](/files/feb-14.zip))
 - Assignment: [Programming Plants](/assignments/programming-plants) (Due February 21st)
 - Reading: [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford
 
