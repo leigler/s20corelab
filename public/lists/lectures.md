@@ -1,5 +1,8 @@
 # Lectures and Demos
 ## Javascript
+- [Javascript Methods](/lectures/javascript-methods)
+- [Javascript Appending](/lectures/javascript-appending)
+- [Javascript Loops](/lectures/javascript-loops)
 - [Javascript Variables, DOM, and intervals](/lectures/javascript-1)
 
 ## HTML/CSS

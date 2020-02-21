@@ -1,3 +1,13 @@
+# Day 5: February 21
+
+- Highlights from [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford
+- Review + Questions: [Programming Plants](/assignments/programming-plants)
+- Javascript: [Introduction Review](/lectures/javascript-1)
+- Exercise: [Module Repetition](/assignments/repetition)
+- Javascript: [Loops](/lectures/javascript-loops), [Appending](/lectures/javascript-appending), and [JS Methods](/lectures/javascript-methods)
+<!-- - Assignment:  -->
+
+
 # Day 4: February 14
 
 - Discussion: [On Weaving](https://arena-attachments.s3.amazonaws.com/2597972/2065c555bbd04503da9df3d3ec5052dc.pdf?1535137003) by Anni Albers
