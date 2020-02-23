@@ -3,8 +3,9 @@
 - Highlights from [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford
 - Review + Questions: [Programming Plants](/assignments/programming-plants)
 - Javascript: [Introduction Review](/lectures/javascript-1)
-- Exercise: [Module Repetition](/assignments/repetition)
 - Javascript: [Loops](/lectures/javascript-loops), [Appending](/lectures/javascript-appending), and [JS Methods](/lectures/javascript-methods)
+- [Demo Files](/files/feb-21.zip)
+- Assignment: [Module Repetition](/assignments/repetition) (Due February 28th)
 <!-- - Assignment:  -->
 
 

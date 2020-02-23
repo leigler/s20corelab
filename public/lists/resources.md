@@ -1,6 +1,12 @@
 # Resources
 A collection of code and web related resources.<br><br>
 
+## Weekly Demo Files
+- [February 21](/files/feb-21.zip)
+- [February 14](/files/feb-14.zip)
+- [January 31](/files/jan-31.zip)
+- [January 24](/files/basic-html.zip)
+
 ## HTML/CSS Resources
 - [Learn to Code](https://learn.shayhowe.com/html-css/)
 - [Learn Layout](http://learnlayout.com/)

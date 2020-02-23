@@ -2,7 +2,7 @@
 Complete list of assignments and exercises for Core Lab Interaction.<br><br>
 
 <!-- - [Détournement](/assignments/detournement) (Due February 28st) -->
-- Exercise: [Module Repetition](/assignments/repetition)
+- Exercise: [Module Repetition](/assignments/repetition) (Due February 28th)
 - [Programming Plants](/assignments/programming-plants) (Due February 21st)
 - [Pocket Compositions](/assignments/pocket) (Due February 14th)
 - [Truck Typography](/assignments/truck-type) (Due February 7th)
