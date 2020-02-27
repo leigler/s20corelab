@@ -1,5 +1,8 @@
 # Lectures and Demos
 ## Javascript
+- [Javascript Library: GSAP](/lectures/gsap)
+- [Javascript Event Listeners](/lectures/event-listeners)
+- [Javascript Functions](/lectures/functions)
 - [Javascript Methods](/lectures/javascript-methods)
 - [Javascript Appending](/lectures/javascript-appending)
 - [Javascript Loops](/lectures/javascript-loops)

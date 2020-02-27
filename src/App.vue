@@ -137,6 +137,11 @@ header nav ul li{
   header h1{
     flex-basis: 100%;
   }
+
+  header h1 a{
+    display: block;
+    text-align: center;
+  }
 }
 
 header h1:not(:first-of-type) a{
@@ -303,7 +308,7 @@ main{
     margin-top: 4rem;
   }
 
-  .Post pre + h3{
+  .Post pre + h3, .Post pre + h4, .Post pre + p{
     margin-top: 2rem;
   }
 
