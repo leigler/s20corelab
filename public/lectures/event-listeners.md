@@ -15,6 +15,7 @@ Event Listeners follow the general syntax of:
 You&rsquo;ll notice that we&rsquo;re using an anonymous function with a single argument: `e`. `e` stands for event, and gives us a bunch of information abou the action we just triggered.
 
 A few important eventlisteners:
+- `DOMContentLoaded` the HTML document has been completely loaded and parsed
 - `click` triggers on click
 - `mousedown`
 - `mouseenter`
@@ -30,6 +31,19 @@ A few important eventlisteners:
 
 
 ### Examples
+
+On Page Load:
+
+```javascript
+
+window.addEventListener('DOMContentLoaded', function(e){
+    console.log('DOM fully loaded and parsed');
+});
+
+
+
+```
+
 
 On Click:
 
