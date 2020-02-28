@@ -69,7 +69,7 @@ function completed(){
 	console.log("its finished!")
 }
 
-gsap.fromTo(".myWheel", { y: -50 onStart: justStarting}, { y: -100, duration: 1, onComplete: completed})
+gsap.fromTo(".myWheel", { y: -50, onStart: justStarting}, { y: -100, duration: 1, onComplete: completed})
 
 ```
 

@@ -16,7 +16,7 @@ var myRootDiv = document.getElementById("container");
 
 for (var i = 0; i < 50; i++) {
 	
-	var firstVariable = 'replace me wiht some css';
+	var firstVariable = 'replace me with some css';
 
 	var myModule = `
 
@@ -29,11 +29,7 @@ for (var i = 0; i < 50; i++) {
 
 	myRootDiv.insertAdjacentHTML('beforeend', myModule)
 
-
 }
-
-
-
 
 
 
