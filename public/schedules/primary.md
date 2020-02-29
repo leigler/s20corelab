@@ -1,9 +1,13 @@
+<!-- and [Event Listeners](/lectures/event-listeners) -->
+<!-- - Javascript Libraries: [Greensock](/lectures/gsap) -->
+<!-- - Assignment: [With Feeling](/assignments/with-feeling) (Due March 6th) -->
+
 # Day 6: February 28
+
 - Review: Module Repetition
 - Javascript: Reviewing [loops](/lectures/javascript-loops), [appending](/lectures/javascript-appending) and [methods](/lectures/javascript-methods)
-- Javascript: [Functions](/lectures/functions) and [Event Listeners](/lectures/event-listeners)
-- Javascript Libraries: [Greensock](/lectures/gsap)
-- Assignment: [With Feeling](/assignments/with-feeling) (Due March 6th)
+- Javascript: [Functions](/lectures/functions) 
+- Javascript: [Clock](/files/feb-28-timer.zip) and [Timer](/files/feb-28-clock.zip) examples
 - Reading: [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 
 # Day 5: February 21

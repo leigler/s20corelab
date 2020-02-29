@@ -29,7 +29,6 @@ A few important eventlisteners:
 - `keyup` when a key is lifted
 - `scroll` when the document view or an element has been scrolled
 
-
 ### Examples
 
 On Page Load:
@@ -39,8 +38,6 @@ On Page Load:
 window.addEventListener('DOMContentLoaded', function(e){
     console.log('DOM fully loaded and parsed');
 });
-
-
 
 ```
 
