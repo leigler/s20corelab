@@ -6,6 +6,7 @@
 - Javascript: [eventListeners](/lectures/event-listeners)
 - Javascript: [Objects and Asynchronous Loading](/lectures/javascript-objects)
 - Collection Check-in
+- Group Assignment: Détournement
 
 
 # Week 9: March 27 
