@@ -4,8 +4,10 @@
 		<ul class="main_list">
 			<li>January 24 – May 8, 2020</li>
 			<li>Friday, 4:00pm – 6:40pm</li>
-			<li>6 East 16th Street, Rm. 1104</li>
-			<li>
+			<li><strike>6 East 16th Street, Rm. 1104</strike></li>
+			<li><a href="https://glitch.com/@s-20-corelab" target="_blank">✷ Glitch ✷</a></li>
+			<li><a target="_blank" href="https://newschool.zoom.us/meeting">✷ Zoom ✷</a></li>
+			<li><br>
 				<a target="_blank" :href="link[1]">✷ {{link[0]}} ✷</a>
 			</li>
 			<li>

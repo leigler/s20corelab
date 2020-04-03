@@ -1,4 +1,4 @@
-# Event Listeners
+# Javascript: Event Listeners
 
 [Event Listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) are a method to allow our Javascript to run functions based on certain interactions with the DOM (our HTML).
 
@@ -89,3 +89,17 @@ On Scroll:
 	});
 
 ```
+To track an element&rsquo;s position in relation to the top of the browser window, use:
+
+```javascript
+
+var el = document.getElementById("myElement")
+
+var viewportOffset = el.getBoundingClientRect();
+
+var top = viewportOffset.top;
+var left = viewportOffset.left;
+
+
+```
+

@@ -2,6 +2,20 @@
 <!-- - Javascript Libraries: [Greensock](/lectures/gsap) -->
 <!-- - Assignment: [With Feeling](/assignments/with-feeling) (Due March 6th) -->
 
+# Week 10: April 3
+- Javascript: [eventListeners](/lectures/event-listeners)
+- Javascript: [Objects and Asynchronous Loading](/lectures/javascript-objects)
+- Collection Check-in
+
+
+# Week 9: March 27 
+- Individual Check-ins
+- Set up Glitch Accounts
+
+
+# Week 8: March 13
+- *Class Cancelled*
+
 
 #Week 7: March 6
 - Javascript: Class review on functions, loops, and altering css + appending elements.

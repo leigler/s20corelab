@@ -1,5 +1,6 @@
 # Lectures and Demos
 ## Javascript
+- [Javascript Objects and Asynchronous Loading](/lectures/javascript-objects)
 - [Javascript Library: GSAP](/lectures/gsap)
 - [Javascript Event Listeners](/lectures/event-listeners)
 - [Javascript Functions](/lectures/functions)
