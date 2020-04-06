@@ -1,10 +1,12 @@
 # Assignment: Détournement
 
-This project will explore conventions and outputs of a single Javascript event handler. Consider it a one-week deep-dive into a found interaction.
+This project will explore conventions and outputs of a single Javascript event handler. Consider it a one-week deep-dive into a *found* interaction.
+
+This is a group project, and should be completed within a single [Glitch](https://glitch.com) project. Please be prepared to briefly share your findings with the class next week.
 
 ## Brief
 
-Find a commonly used site and identify a single interaction that is core to the site&rsquo;s functionality and study this interaction. What exactly happens? What are the design decisions made to imply its functionality? How does the site change upon interaction? Feel free to use the `inspect element` functionality on your browser to take a closer look at the HTML, CSS, and Javascript.
+Find a commonly used site and identify a single interaction that is core to the site&rsquo;s functionality and study this interaction. What exactly happens? What are the design decisions made to imply its functionality? How does the site change upon interaction? Feel free to use the `inspect element` functionality on your browser to take a closer look at the HTML, CSS, and Javascript. As preliminary research for this assignment, try and breakdown the interaction into identifiable steps.
 
 
 Using your knowledge of HTML and CSS so far, you will spend the week recreating a single page of your selected site, focusing on recreating the primary visual elements of the interaction you&rsqu;ve isolated. 
