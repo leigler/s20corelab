@@ -15,7 +15,7 @@
 - Check-ins -->
 
 # Week 11: April 10
-- Review: [Détournement](/assignments/detournement) Assignement
+- Review: [Détournement](/assignments/detournement) Assignment
 - Javascript: Review [eventListeners](/lectures/event-listeners): [Glitch Demo on Interfaces](https://glitch.com/~s20-views)
 - [Collection Check-in](https://docs.google.com/spreadsheets/d/1ZaNU5O8Sr2SWXWvmMWNbnuvS5cd3put5X6ikgCCy-Lg/edit?usp=sharing)<br><i>As we begin meeting, reflect on what parts of your project you know how to do, and which parts you foresee having difficulty with.</i>
 - Group Assignment: [Collection Prelude](/assignments/prelude)
