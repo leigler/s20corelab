@@ -1,10 +1,28 @@
-<!-- and [Event Listeners](/lectures/event-listeners) -->
 <!-- - Javascript Libraries: [Greensock](/lectures/gsap) -->
 <!-- - Assignment: [With Feeling](/assignments/with-feeling) (Due March 6th) -->
 
+
+<!-- # Week 14: May 1
+- Review
+- Check-ins
+
+# Week 13: April 24
+- Review
+- Check-ins
+
+# Week 12: April 17
+- Javascript: localStorage Demo
+- Check-ins -->
+
+# Week 11: April 10
+- Review: [Détournement](/assignments/detournement) Assignement
+- Javascript: Review [eventListeners](/lectures/event-listeners): [Glitch Demo on Interfaces](https://glitch.com/~s20-views)
+- [Collection Check-in](https://docs.google.com/spreadsheets/d/1ZaNU5O8Sr2SWXWvmMWNbnuvS5cd3put5X6ikgCCy-Lg/edit?usp=sharing)<br><i>As we begin meeting, reflect on what parts of your project you know how to do, and which parts you foresee having difficulty with.</i>
+- Group Assignment: [Collection Prelude](/assignments/prelude)
+
 # Week 10: April 3
-- Javascript: [eventListeners](/lectures/event-listeners), [Glitch Demo](https://glitch.com/~s20-lab-eventlisteners) 
-- Javascript: [Objects and Asynchronous Loading](/lectures/javascript-objects), [Glitch Demo](https://glitch.com/~s20-lab-objects) 
+- Javascript: [eventListeners](/lectures/event-listeners): [Glitch Demo](https://glitch.com/~s20-lab-eventlisteners) 
+- Javascript: [Objects and Asynchronous Loading](/lectures/javascript-objects): [Glitch Demo](https://glitch.com/~s20-lab-objects) 
 - Collection Check-in
 - Group Assignment: [Détournement](/assignments/detournement) (Due April 10th)
 

@@ -1,6 +1,7 @@
 # Assignments and Exercises
 Complete list of assignments and exercises for Core Lab Interaction.<br><br>
 
+- [Collection Prelude](/assignments/prelude) (Due April 17th)
 - [Détournement](/assignments/detournement) (Due April 10th)
 <!-- - [With Feeling](/assignments/with-feeling) (Due March 6th) -->
 - Exercise: [Module Repetition](/assignments/repetition) (Due February 28th)
