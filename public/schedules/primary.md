@@ -8,11 +8,15 @@
 
 # Week 13: April 24
 - Review
-- Check-ins
+- Check-ins -->
 
 # Week 12: April 17
-- Javascript: localStorage Demo
-- Check-ins -->
+- Review: [Collection Prelude](/assignments/prelude)
+- Javascript: Questions
+- Javascript: [localStorage Demo](https://glitch.com/edit/#!/s20-localstorage?path=README.md:27:38)
+- Javascript: [Arrays Demo](https://glitch.com/~s20-arrays)
+- Javascript: [Libraries](/lectures/javascript-libraries)
+- Check-ins
 
 # Week 11: April 10
 - Review: [Détournement](/assignments/detournement) Assignment

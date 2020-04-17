@@ -5,6 +5,8 @@ A collection of code and web related resources.<br><br>
 Starting on April 3, all of our demos moving forward will introduced and saved on Glitch. Our Team is called [@s-20-corelab](https://glitch.com/@s-20-corelab/). 
 
 ## Weekly Demo Files
+- [April 17, Arrays Demo](https://glitch.com/~s20-arrays)
+- [April 17, localStorage](https://glitch.com/~s20-localstorage)
 - [April 10, eventListeners and Asynchronous loading](https://glitch.com/~s20-views)
 - [April 3 eventListeners](https://glitch.com/~s20-lab-eventlisteners)
 - [April 3 Objects and Asynchronous](https://glitch.com/~s20-lab-objects)
@@ -33,3 +35,13 @@ Starting on April 3, all of our demos moving forward will introduced and saved o
 
 ## Webfont Resources
 - [Google Fonts](https://fonts.google.com/)
+
+## Javascript Libraries
+- [jQuery](https://jquery.com/)
+- [Paperjs](http://paperjs.org/)
+- [P5js](https://p5js.org/)
+- [GSAP Animation](https://greensock.com/gsap/)
+- [Metafizzy Libraries](https://metafizzy.co/)
+- [Snap SVG Animation](http://snapsvg.io/)
+- [Chartjs](https://p5js.org/)
+- [html2canvas](https://github.com/niklasvh/html2canvas)

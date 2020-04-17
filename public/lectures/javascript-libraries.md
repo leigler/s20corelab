@@ -1,0 +1,10 @@
+## Javascript Libraries
+- [jQuery](https://jquery.com/)
+- [Paperjs](http://paperjs.org/)
+- [P5js](https://p5js.org/)
+- [GSAP Animation](https://greensock.com/gsap/)
+- [AnimeJS Animation](https://animejs.com/)
+- [Metafizzy Libraries](https://metafizzy.co/)
+- [Snap SVG Animation](http://snapsvg.io/)
+- [Chartjs](https://p5js.org/)
+- [html2canvas](https://github.com/niklasvh/html2canvas)
